@@ -1,6 +1,6 @@
 # Predicting Dementia Using High-Fidelity MRI: An Empirical Analysis of Diffusion, Autoencoders, and Adversarial Deep Learning Models
 
-This repository contains the implementation of the paper: **"An Empirical Analysis of Diffusion, Autoencoders, and Adversarial Deep Learning Models for Predicting Dementia Using High-Fidelity MRI"**.
+This repository contains the implementation of the paper: This repository contains the implementation of the paper: **"[An Empirical Analysis of Diffusion, Autoencoders, and Adversarial Deep Learning Models for Predicting Dementia Using High-Fidelity MRI](https://doi.org/10.1109/ACCESS.2024.3354724)**".
 
 ## Abstract
 
@@ -29,10 +29,3 @@ These generative models were trained to produce synthetic images, which were the
 - **GAN_Training.ipynb**: Training of GAN.
 - **VAE_Training.ipynb**: Training of Variational Autoencoders.
 
-## Getting Started
-
-To get started with this project, clone the repository and follow the instructions in the individual notebooks.
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
