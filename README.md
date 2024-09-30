@@ -1,6 +1,6 @@
 # Predicting Dementia Using High-Fidelity MRI: An Empirical Analysis of Diffusion, Autoencoders, and Adversarial Deep Learning Models
 
-This repository contains the implementation of the paper: This repository contains the implementation of the paper: **"[An Empirical Analysis of Diffusion, Autoencoders, and Adversarial Deep Learning Models for Predicting Dementia Using High-Fidelity MRI](https://doi.org/10.1109/ACCESS.2024.3354724)**".
+This repository contains the implementation of my paper: **"[An Empirical Analysis of Diffusion, Autoencoders, and Adversarial Deep Learning Models for Predicting Dementia Using High-Fidelity MRI](https://doi.org/10.1109/ACCESS.2024.3354724)**".
 
 ## Abstract
 
